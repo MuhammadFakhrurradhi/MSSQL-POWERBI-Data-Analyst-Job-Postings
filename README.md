@@ -18,6 +18,8 @@ This dataset was created by [picklesueat](https://github.com/picklesueat/data_j
 
 # Data Exploratory Analysis
 
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTRlZTAzYjItMDFiZi00MDExLTkyNmItOWMxYTdmZTkwYjU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ![data analyst_001](https://github.com/MuhammadFakhrurradhi/MSSQL-POWERBI-Data-Analyst-Job-Postings/assets/131879017/a903e37a-ba3f-4e31-9956-0c19b1f32e30)
 
 ![data analyst_002](https://github.com/MuhammadFakhrurradhi/MSSQL-POWERBI-Data-Analyst-Job-Postings/assets/131879017/218945e9-29f2-4a9d-b8c2-a7d89bcec2a8)
